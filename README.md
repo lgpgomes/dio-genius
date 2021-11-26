@@ -6,7 +6,6 @@ O Genius é um simples jogo de memória, cujo objetivo é memorizar as sequênci
 
 ![captura de tela do jogo funcionando](https://github.com/lgpgomes/dio-genius/blob/master/genius.PNG?raw=true)
 
-- Link do projeto em funcionamento: [Jogo Genius](https://abre.ai/dio-genius)
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
